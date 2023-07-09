@@ -1,0 +1,52 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "новое начало",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 0,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Звуки","folderPath":"folders/Звуки.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Наборы плиток","folderPath":"folders/Наборы плиток.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Объекты","folderPath":"folders/Объекты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Последовательности","folderPath":"folders/Последовательности.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Примечания","folderPath":"folders/Примечания.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Пути","folderPath":"folders/Пути.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Расширения","folderPath":"folders/Расширения.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Румы","folderPath":"folders/Румы.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Скрипты","folderPath":"folders/Скрипты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.4.0.84",
+  },
+  "resources": [
+    {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},},
+    {"id":{"name":"Script_weapon_take","path":"scripts/Script_weapon_take/Script_weapon_take.yy",},},
+    {"id":{"name":"Spr_bullet","path":"sprites/Spr_bullet/Spr_bullet.yy",},},
+    {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},},
+    {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
+    {"id":{"name":"Obj_gun","path":"objects/Obj_gun/Obj_gun.yy",},},
+    {"id":{"name":"Spr_gun","path":"sprites/Spr_gun/Spr_gun.yy",},},
+    {"id":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room_test","path":"rooms/Room_test/Room_test.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

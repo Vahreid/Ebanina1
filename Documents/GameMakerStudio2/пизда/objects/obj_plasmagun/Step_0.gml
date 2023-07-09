@@ -1,0 +1,1 @@
+image_angle = point_direction(x+30,y+60,mouse_x,mouse_y)
